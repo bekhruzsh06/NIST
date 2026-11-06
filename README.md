@@ -19,7 +19,7 @@ Before starting the lab phases, please read the background context:
 
 Navigate through the phases below to view the completed framework deliverables or access the templates to practice yourself.
 
-* **[Phase 1: Govern and Map](./01_Phase_Govern_and_Map/README.md)**
+* **[Phase 1: Govern and Map](<NIST/00_Overview/3. The Nova Cloud Scenario.md>)**
 * **[Phase 2: Protect and Manage](./02_Phase_Protect_and_Manage/README.md)**
 * **[Phase 3: Detect and Measure](./03_Phase_Detect_and_Measure/README.md)**
 * **[Phase 4: Respond and Manage](./04_Phase_Respond_and_Manage/README.md)**
