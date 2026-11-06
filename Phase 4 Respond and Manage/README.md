@@ -6,10 +6,9 @@ When an AI model leaks data or goes rogue, standard incident response isn't alwa
 
 ## 📄 Completed Deliverables
 Review the finalized documents for this phase:
-* [01_AI_Containment_Playbook.md](<01 AI Containment Playbook.md>) - The "Kill Switch" procedures for isolating compromised AI.
-* [02_Remediation_and_Recovery_Plan.md](<02 Remediation and Recovery Plan.md>) - Steps to sanitize the codebase and safely restore operations.
+- [4.1 AI Containment and Incident Playbook.md](<4.1 AI Containment and Incident Playbook.md>) - The "Kill Switch" procedures for isolating compromised AI.
+- [4.2 AI Remediation and Recovery Plan.md](<4.2 AI Remediation and Recovery Plan.md>) - Steps to sanitize the codebase and safely restore operations.
 
 ## 📝 Practice Templates
 Want to build this yourself? Use the blank template:
-* [Template_Incident_Playbook.md](<Templates/Template Incident Playbook.md>)
-s
+- [Template_Incident_Playbook.md](<../Templates/5.4 Template AI Containment and Incident Playbook.md>)
