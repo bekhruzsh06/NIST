@@ -13,17 +13,17 @@ By completing this lab, you will be able to:
 
 ## 📖 The Scenario
 Before starting the lab phases, please read the background context:
-* [The NovaCloud Scenario](./00_Overview/The_NovaCloud_Scenario.md)
+* [The NovaCloud Scenario](<00_Overview/3. The Nova Cloud Scenario.md>)
 
 ## 🗂️ Lab Phases & Deliverables
 
 Navigate through the phases below to view the completed framework deliverables or access the templates to practice yourself.
 
-* **[Phase 1: Govern and Map](<NIST/00_Overview/3. The Nova Cloud Scenario.md>)**
-* **[Phase 2: Protect and Manage](./02_Phase_Protect_and_Manage/README.md)**
-* **[Phase 3: Detect and Measure](./03_Phase_Detect_and_Measure/README.md)**
-* **[Phase 4: Respond and Manage](./04_Phase_Respond_and_Manage/README.md)**
-* **[Templates for Practice](./Templates/README.md)**
+* **[Phase 1: Govern and Map](<Phase 1 Govern and Map/README.md>)**
+* **[Phase 2: Protect and Manage](<Phase 2 Protect and Manage/README.md>)**
+* **[Phase 3: Detect and Measure](<Phase 3 Detect and Measure/README.md>)**
+* **[Phase 4: Respond and Manage](<Phase 4 Respond and Manage/README.md>)**
+* **[Templates for Practice](Templates/README.md)**
 
 ## 🚀 How to Use This Lab
 1. Read the scenario context to understand the business and the breach.
